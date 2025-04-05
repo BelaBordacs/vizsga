@@ -1,0 +1,24 @@
+.kartya{
+    border: 2px solid rgb(0, 0, 0);
+    max-width: 50%;
+    min-width: 20%;
+    border-radius: 5px;
+    margin: 2rem;
+}
+
+.kerdes{
+ background-color: rgba(128, 128, 128, 0.411);
+}
+
+.kerdes{
+    
+}
+
+.valasz{
+    
+}   
+
+.valasz:hover{
+    background-color: rgba(0, 255, 255, 0.277);
+    transition: 1s;
+}
