@@ -22,3 +22,11 @@
     background-color: rgba(0, 255, 255, 0.277);
     transition: 1s;
 }
+
+.helyes {
+    background-color: green;
+}
+
+.helytelen {
+    background-color: red;
+}
